@@ -1,5 +1,5 @@
 ![METAT](content/logo.jpg)
-[diegantobass.github.io/mateshs_lyon](diegantobass.github.io/mateshs_lyon)
+<p style="text-align: center">[diegantobass.github.io/mateshs_lyon](diegantobass.github.io/mateshs_lyon)</p>
 
 -
 
