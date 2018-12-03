@@ -1,4 +1,4 @@
-![METAT](../content/logo.jpg)
+![METAT](content/logo.jpg)
 
 -
 
@@ -78,6 +78,6 @@ _Ouvert à tous les profils, sans restriction de status ou d'affiliation_
 
 [diego.antolinosbasso@gmail.com](mailto:diego.antolinosbasso@sciencespo.com)
 
-<a href="https://sciencespo.fr/cevipof"><div style="float: left" href="https://sciencespo.fr/cevipof">![cevipof](../content/cevipof.jpg)</div></a>
-<a href="https://medialab.sciencespo.fr/"><div style="float: left; margin-left: 50px;">![medialab](../content/medialab.jpg)</div></a>
+<a href="https://sciencespo.fr/cevipof"><div style="float: left" href="https://sciencespo.fr/cevipof">![cevipof](content/cevipof.jpg)</div></a>
+<a href="https://medialab.sciencespo.fr/"><div style="float: left; margin-left: 50px;">![medialab](content/medialab.jpg)</div></a>
 
